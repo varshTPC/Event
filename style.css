@@ -1,0 +1,19 @@
+body {
+    background-color: #e4eeeb;
+}
+.welcomeHeading {
+    color: black;
+}
+h2 {
+    color: #00A8CC;
+}
+h3 {
+    color: #00A8CC;
+}
+hr {
+    border-style: dotted none none none;
+    color: grey;
+    height: 10px;
+    border-width: 5px;
+    width: 5%;
+}
